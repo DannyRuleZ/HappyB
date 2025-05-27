@@ -34,7 +34,18 @@ with st.container(border=True):
             """,
             unsafe_allow_html=True,
         )
-
+st.title(" ")
+st.title(" ")
+st.title(" ")
+st.title(" ")
+st.title(" ")
+st.title(" ")
+st.title(" ")
+st.title(" ")
+st.title(" ")
+st.title(" ")
+st.title(" ")
+st.title(" ")
 
 # 5️⃣  Chat IA
 persona = """
