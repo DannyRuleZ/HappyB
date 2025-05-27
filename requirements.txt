@@ -1,7 +1,4 @@
 streamlit
 gspread
 pandas
-time
-google.generativeai
-datetime
-
+google-generativeai
