@@ -1,6 +1,7 @@
-import streamlit as st
-import gspread
-import pandas as pd
-import time
-import google.generativeai as genai
-from datetime import datetime
+streamlit
+gspread
+pandas
+time
+google.generativeai
+datetime
+
